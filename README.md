@@ -4,7 +4,7 @@ https://github.com/kdheepak/kickstart.nvim/assets/1813121/f3ff9a2b-c31f-44df-a4f
 
 ### Introduction
 
-~If you are using this on WSL remember to use `dos2unix` to fix line endings~
+<mark>If you are using this on WSL remember to use `dos2unix` to fix line endings</mark>
 ```shell
 find ~/.local/share/nvim/ -type f -print0 | xargs -0 dos2unix
 ```
